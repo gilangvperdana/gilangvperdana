@@ -1,7 +1,7 @@
 [![gilangvperdana](https://res.cloudinary.com/gbesar/image/upload/v1625141309/gilangvperdana-1500x500_wyyjge.png)][1]
 
 Hola 👋,
-I am Gilang, 
+I am Gilang.
 
 I am a telecommunications engineering student, 
 Focus on core networks and Cloud Computing. 
