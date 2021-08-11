@@ -13,8 +13,8 @@ Such as: Openstack, Kubernetes, Docker, Software Defined Network, etc.
 - Web: [gbesar.com][1]
 - LinkedIn: [linkedin.com/in/gilangvperdana][2]
 - DockerHub: [hub.docker.com/u/gilangvperdana][3]
-- Trakteer: [https://trakteer.id/gilangvperdana/tip][4]
-- Ko-Fi: [https://ko-fi.com/gilangvperdana][5]
+- Trakteer: [trakteer.id/gilangvperdana/tip][4]
+- Ko-Fi: [ko-fi.com/gilangvperdana][5]
 - Etc: [link-tube.com/GilangVPerdana][5]
 
 ## &#x1f4c8; My GitHub Stats
