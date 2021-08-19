@@ -15,7 +15,7 @@ Such as: Openstack, Kubernetes, Docker, Software Defined Network, etc.
 - DockerHub: [hub.docker.com/u/gilangvperdana][3]
 - Trakteer: [trakteer.id/gilangvperdana/tip][4]
 - Ko-Fi: [ko-fi.com/gilangvperdana][5]
-- Etc: [link-tube.com/GilangVPerdana][5]
+- Etc: [link-tube.com/GilangVPerdana][6]
 
 ## &#x1f4c8; My GitHub Stats
 
