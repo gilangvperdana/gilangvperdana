@@ -13,9 +13,10 @@ Such as: Openstack, Kubernetes, Docker, Software Defined Network, etc.
 - Web: [gbesar.com][1]
 - LinkedIn: [linkedin.com/in/gilangvperdana][2]
 - DockerHub: [hub.docker.com/u/gilangvperdana][3]
-- Trakteer: [trakteer.id/gilangvperdana/tip][4]
-- Ko-Fi: [ko-fi.com/gilangvperdana][5]
-- Etc: [link-tube.com/GilangVPerdana][6]
+- GitLab: [gitlab.com/gilangvperdana][4]
+- Trakteer: [trakteer.id/gilangvperdana/tip][5]
+- Ko-Fi: [ko-fi.com/gilangvperdana][6]
+- Etc: [link-tube.com/GilangVPerdana][7]
 
 ## &#x1f4c8; My GitHub Stats
 
@@ -30,6 +31,7 @@ Such as: Openstack, Kubernetes, Docker, Software Defined Network, etc.
 [1]: https://gbesar.com
 [2]: https://www.linkedin.com/in/gilangvperdana
 [3]: https://hub.docker.com/u/gilangvperdana
-[4]: https://trakteer.id/gilangvperdana/tip
-[5]: https://ko-fi.com/gilangvperdana
-[6]: https://link-tube.com/GilangVPerdana
+[4]: https://gitlab.com/gilangvperdana
+[5]: https://trakteer.id/gilangvperdana/tip
+[6]: https://ko-fi.com/gilangvperdana
+[7]: https://link-tube.com/GilangVPerdana
