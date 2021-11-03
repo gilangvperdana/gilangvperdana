@@ -30,7 +30,7 @@ Such as: Openstack, Kubernetes, Docker, Software Defined Network, etc.
 </a>
 
 [1]: https://gbesar.com
-[2]: https://githubio.gbesar.com
+[2]: https://gilangvperdana.github.io
 [3]: https://www.linkedin.com/in/gilangvperdana
 [4]: https://hub.docker.com/u/gilangvperdana
 [5]: https://gitlab.com/gilangvperdana
