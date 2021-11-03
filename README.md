@@ -12,12 +12,12 @@ Such as: Openstack, Kubernetes, Docker, Software Defined Network, etc.
 
 - Web: [gbesar.com][1]
 - GitHub.io: [githubio.gbesar.com][2]
-- LinkedIn: [linkedin.com/in/gilangvperdana][3]
-- DockerHub: [hub.docker.com/u/gilangvperdana][4]
-- GitLab: [gitlab.com/gilangvperdana][5]
-- Trakteer: [trakteer.id/gilangvperdana/tip][6]
-- Ko-Fi: [ko-fi.com/gilangvperdana][7]
-- Etc: [link-tube.com/GilangVPerdana][8]
+- LinkedIn: [linkedin.gbesar.com][3]
+- DockerHub: [dockerhub.gbesar.com][4]
+- GitLab: [gitlab.gbesar.com][5]
+- Trakteer: [trakteer.gbesar.com][6]
+- Ko-Fi: [kofi.gbesar.com][7]
+- Etc: [glink.gbesar.com][8]
 
 ## &#x1f4c8; My GitHub Stats
 
