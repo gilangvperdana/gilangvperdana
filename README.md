@@ -11,7 +11,7 @@ Such as: Openstack, Kubernetes, Docker, Software Defined Network, etc.
 ## 📬 Get in touch
 
 - Web: [gbesar.com][1]
-- GitHub.io: [github.gbesar.com][2]
+- GitHub.io: [githubio.gbesar.com][2]
 - LinkedIn: [linkedin.com/in/gilangvperdana][3]
 - DockerHub: [hub.docker.com/u/gilangvperdana][4]
 - GitLab: [gitlab.com/gilangvperdana][5]
@@ -30,7 +30,7 @@ Such as: Openstack, Kubernetes, Docker, Software Defined Network, etc.
 </a>
 
 [1]: https://gbesar.com
-[2]: https://github.gbesar.com
+[2]: https://githubio.gbesar.com
 [3]: https://www.linkedin.com/in/gilangvperdana
 [4]: https://hub.docker.com/u/gilangvperdana
 [5]: https://gitlab.com/gilangvperdana
