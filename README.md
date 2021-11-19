@@ -3,8 +3,8 @@
 Hola 👋,
 I am Gilang.
 
-I am a telecommunications engineering student, 
-Focus on core networks and Cloud Computing. 
+I am a Telecommunications Engineering Student, 
+Focus on Core Networks and Cloud Computing. 
 
 Such as: Openstack, Kubernetes, Docker, Software Defined Network, etc.
 
