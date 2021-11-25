@@ -8,7 +8,7 @@ Focus on Core Networks and Cloud Computing.
 
 Such as: Openstack, Kubernetes, Docker, Software Defined Network, etc.
 
-## 📬 Get in touch
+## 📬 Get in Touch
 
 - Web: [gbesar.com][1]
 - GitHub.io: [githubio.gbesar.com][2]
