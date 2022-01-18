@@ -18,12 +18,7 @@ Such as: Openstack, Kubernetes, Docker, Software Defined Network, etc.
 - GitLab: [gitlab.gbesar.com][6]
 - Etc: [link.gbesar.com][7]
 
-## &#x1f4c8; My GitHub Stats
-
-<a href="https://github.com/gilangvperdana/gilangvperdana">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilangvperdana&hide=java,html&title_color=000000&text_color=000000" />
-</a>
-
+## &#x1f4c8; Stats
 <a href="https://github.com/gilangvperdana/gilangvperdana">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gilangvperdana&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=FAC051" alt="natterstefan's GitHub Stats" />
 </a>
