@@ -15,7 +15,7 @@ Such as: Openstack, Kubernetes, Docker, Software Defined Network, etc.
 - GitHub.io: [githubio.gbesar.com][3]
 - LinkedIn: [linkedin.gbesar.com][4]
 - DockerHub: [dockerhub.gbesar.com][5]
-- Helm Charts: [githubio.gbesar.com/charts][6]
+- Helm Charts: [charts.gbesar.com][6]
 - GitLab: [gitlab.gbesar.com][7]
 - BitBucket: [bitbucket.gbesar.com][8]
 - Gist: [gist.gbesar.com][9]
