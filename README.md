@@ -11,14 +11,14 @@ Such as: Openstack, Kubernetes, Docker, Software Defined Network, etc.
 ## 📬 Get in Touch
 
 - Web: [gbesar.com][1]
-- Medium: [medium.gbesar.com][2]
-- GitHub.io: [githubio.gbesar.com][3]
-- LinkedIn: [linkedin.gbesar.com][4]
-- DockerHub: [dockerhub.gbesar.com][5]
-- Helm Charts: [charts.gbesar.com][6]
-- GitLab: [gitlab.gbesar.com][7]
-- BitBucket: [bitbucket.gbesar.com][8]
-- Gist: [gist.gbesar.com][9]
+- Gist: [gist.gbesar.com][2]
+- Medium: [medium.gbesar.com][3]
+- GitHub.io: [githubio.gbesar.com][4]
+- LinkedIn: [linkedin.gbesar.com][5]
+- DockerHub: [dockerhub.gbesar.com][6]
+- Helm Charts: [charts.gbesar.com][7]
+- GitLab: [gitlab.gbesar.com][8]
+- BitBucket: [bitbucket.gbesar.com][9]
 - Etc: [link.gbesar.com][10]
 
 ## &#x1f4c8; Stats
@@ -27,12 +27,12 @@ Such as: Openstack, Kubernetes, Docker, Software Defined Network, etc.
 </a>
 
 [1]: https://gbesar.com
-[2]: https://gilangvperdana.medium.com/
-[3]: https://gilangvperdana.github.io
-[4]: https://www.linkedin.com/in/gilangvperdana
-[5]: https://hub.docker.com/u/gilangvperdana
-[6]: https://githubio.gbesar.com/charts/
-[7]: https://gitlab.com/gilangvperdana
-[8]: https://bitbucket.gbesar.com
-[9]: https://gist.gbesar.com
+[2]: https://gist.gbesar.com
+[3]: https://gilangvperdana.medium.com/
+[4]: https://gilangvperdana.github.io
+[5]: https://www.linkedin.com/in/gilangvperdana
+[6]: https://hub.docker.com/u/gilangvperdana
+[7]: https://githubio.gbesar.com/charts/
+[8]: https://gitlab.com/gilangvperdana
+[9]: https://bitbucket.gbesar.com
 [10]: https://link.gbesar.com
