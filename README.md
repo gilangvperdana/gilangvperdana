@@ -9,28 +9,22 @@ I am Gilang.
 
 - I am a Telecommunications Engineering Student, 
 - Focus on Core Networks and Cloud Computing. 
-- Such as: Openstack, Kubernetes, Docker, Software Defined Network, etc.
+- Such as: OpenStack, Kubernetes, Docker, Software Defined Network, etc.
 
 ## 📬 Get in Touch
 
-- Web: [gbesar.com][1]
-- Gist: [gist.gbesar.com][2]
-- Medium: [medium.gbesar.com][3]
-- GitHub.io: [githubio.gbesar.com][4]
-- LinkedIn: [linkedin.gbesar.com][5]
-- DockerHub: [dockerhub.gbesar.com][6]
-- Helm Charts: [charts.gbesar.com][7]
-- GitLab: [gitlab.gbesar.com][8]
-- BitBucket: [bitbucket.gbesar.com][9]
-- Etc: [link.gbesar.com][10]
+| Web |  Link|  Web | Link|
+|--|--|--|--|
+| Web |[gbesar.com](gbesar.com) | DockerHub|[dockerhub.gbesar.com](dockerhub.gbesar.com)|
+|Gist|[gist.gbesar.com](gist.gbesar.com)| Helm Charts|[charts.gbesar.com](charts.gbesar.com)|
+|Medium|[medium.gbesar.com](medium.gbesar.com)| GitLab|[gitlab.gbesar.com](gitlab.gbesar.com)|
+|GitHubIo|[githubio.gbesar.com](githubio.gbesar.com)| BitBucket|[bitbucket.gbesar.com](bitbucket.gbesar.com)|
+|LinkedIn|[linkedin.gbesar.com](linkedin.gbesar.com)| Etc|[link.gbesar.com](link.gbesar.com)|
 
-[1]: https://gbesar.com
-[2]: https://gist.gbesar.com
-[3]: https://gilangvperdana.medium.com/
-[4]: https://gilangvperdana.github.io
-[5]: https://www.linkedin.com/in/gilangvperdana
-[6]: https://hub.docker.com/u/gilangvperdana
-[7]: https://githubio.gbesar.com/charts/
-[8]: https://gitlab.com/gilangvperdana
-[9]: https://bitbucket.gbesar.com
-[10]: https://link.gbesar.com
+
+
+
+
+
+
+
