@@ -5,7 +5,7 @@
 </a>
 
 Hola 👋,
-I am Gilang.
+I am **Gilang**.
 
 - I am a Telecommunications Engineering Student, 
 - Focus on Core Networks and Cloud Computing. 
