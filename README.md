@@ -10,18 +10,9 @@ I am Gilang.
 - I am a Telecommunications Engineering Student, 
 - Focus on Core Networks and Cloud Computing. 
 - Such as: OpenStack, Kubernetes, Docker, Software Defined Network, etc.
+- Contact me on [Here!][1]
 
-## 📬 Get in Touch
-
-| Web |  Link|  Web | Link|
-|--|--|--|--|
-| Web |[gbesar.com](gbesar.com) | DockerHub|[dockerhub.gbesar.com](dockerhub.gbesar.com)|
-|Gist|[gist.gbesar.com](gist.gbesar.com)| Helm Charts|[charts.gbesar.com](charts.gbesar.com)|
-|Medium|[medium.gbesar.com](medium.gbesar.com)| GitLab|[gitlab.gbesar.com](gitlab.gbesar.com)|
-|GitHubIo|[githubio.gbesar.com](githubio.gbesar.com)| BitBucket|[bitbucket.gbesar.com](bitbucket.gbesar.com)|
-|LinkedIn|[linkedin.gbesar.com](linkedin.gbesar.com)| Etc|[link.gbesar.com](link.gbesar.com)|
-
-
+[1]: https://gbesar.com/link
 
 
 
