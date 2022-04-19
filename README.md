@@ -9,7 +9,7 @@ I am **Gilang**.
 
 - I am a Telecommunications Engineering Student.
 - Focus on Core Networks and Cloud Computing. 
-- Such as: OpenStack, Kubernetes, Docker, Software Defined Network, NFV, etc.
+- Such as: OpenStack, Kubernetes, Docker, Software Defined Network/NFV, etc.
 - Contact me on [Here!][1]
 
 [1]: https://gbesar.com/link
