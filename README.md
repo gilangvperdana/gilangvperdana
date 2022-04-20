@@ -12,7 +12,7 @@ I am **Gilang**.
 - Such as: OpenStack, Kubernetes, Docker, Software Defined Network/NFV, etc.
 - Contact me on [Here!][1]
 
-[1]: https://gbesar.com/link
+[1]: https://gbesar.link
 
 
 
