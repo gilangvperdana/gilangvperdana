@@ -5,7 +5,7 @@
 </a>
 
 Hola,
-I am **Gilang** ![](assets/Hi.gif)
+I am **Gilang** <img src="https://raw.githubusercontent.com/gilangvperdana/gilangvperdana/main/assets/Hi.gif?raw=true" width="30">
 
 - I am a Telecommunications Engineering Student.
 - Focus on Core Networks and Cloud Computing. 
