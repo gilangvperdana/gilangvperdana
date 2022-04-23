@@ -5,7 +5,7 @@
 </a>
 
 Hola,
-I am **Gilang** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" width="30">
+I am **Gilang** ![](assets/Headers.gif)
 
 - I am a Telecommunications Engineering Student.
 - Focus on Core Networks and Cloud Computing. 
