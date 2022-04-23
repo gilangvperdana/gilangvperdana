@@ -5,7 +5,7 @@
 </a>
 
 Hola,
-I am **Gilang** ![](assets/Headers.gif)
+I am **Gilang** ![](assets/Hi.gif)
 
 - I am a Telecommunications Engineering Student.
 - Focus on Core Networks and Cloud Computing. 
